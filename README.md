@@ -31,7 +31,8 @@ This project analyzes customer purchasing behavior using SQL, Python, and Power 
 - Interactive dashboards improved data visualization.
 
 ## Dashboard Preview
-<img width="1116" height="546" alt="Dashboard" src="https://github.com/user-attachments/assets/e9fc3fe6-cf69-45f0-a80b-b8440a606807" />
+<img width="1016" height="572" alt="image" src="https://github.com/user-attachments/assets/0d61310d-8427-4c60-8ee9-e5afa424e1f0" />
+
 
 
 ## Author
